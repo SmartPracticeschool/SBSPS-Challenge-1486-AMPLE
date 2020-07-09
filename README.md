@@ -1,5 +1,5 @@
 # SBSPS-Challenge-1486-AMPLE
-The intercessor is a smart warehouse management system deployed as a web-app. The project uses time series forecasting for prediciton of the upcoming sales by a warehouse to avoid overstocking or understocking. The project uses python as backend and has HTML,CSS and JS as the frontend.
+The intercessor is a smart warehouse management system deployed as a web-app. The project uses time series forecasting for prediciton of the upcoming sales by a warehouse to avoid overstocking or understocking. The project uses python as backend and has HTML,CSS and JS as the frontend. The project has many other awesome featurees, watch the video for that.
 
 The link for the video explanantion-> https://www.youtube.com/watch?v=C417pbPa_z8&feature=youtu.be
 
